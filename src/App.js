@@ -4,6 +4,8 @@ import './app.scss';
 
 import Thing from './components/thing/thing.js';
 
+// comment
+
 class App extends React.Component {
   render() {
     return (
