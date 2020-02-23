@@ -1,7 +1,7 @@
 {
   "name": "cool-react",
   "version": "0.1.0",
-  "homepage": "https://bnates.github.io/cool-react/",
+  "homepage": "/",
   "main": "src/index.js",
   "dependencies": {
     "enzyme": "^3.11.0",
