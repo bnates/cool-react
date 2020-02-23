@@ -1,12 +1,9 @@
 {
   "name": "cool-react",
   "version": "0.1.0",
-  "homepage": "https://bnates.github.io/cool-react",
+  "homepage": "https://bnates.github.io/cool-react/",
   "main": "src/index.js",
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.4.1",
-    "@testing-library/user-event": "^7.2.1",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
     "gh-pages": "^2.2.0",
